@@ -24,7 +24,7 @@
   display: none;
 }
 
-@media (prefers-color-scheme: light){
+@media (prefers-color-scheme: light) {
   :root{
     --background-image:  url("../images/cover-image-light.png");
     --title-color: rgba(255, 194, 230, 1);
