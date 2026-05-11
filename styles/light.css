@@ -25,7 +25,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  :root{
+  :root {
     --background-image:  url("../images/cover-image-light.png");
     --title-color: rgba(255, 194, 230, 1);
     --accent-color: rgba(255, 141, 203, 1);
